@@ -1,0 +1,8 @@
+1.2.0
+- Fix for Kodi 21.1
+
+1.1.0
+- Set the delay value when the video is playing
+- The audio delay setting does not reset the subtitle delay value
+
+1.0.0 Initial Release
